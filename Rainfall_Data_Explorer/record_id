@@ -1,0 +1,21 @@
+record_id,date,location,rainfall_mm,weather_condition,remarks
+21,2026-06-01,Hyderabad,12.5,Light Rain,Light rainfall recorded
+22,2026-06-03,Medchal,25.0,Moderate Rain,Moderate rainfall recorded
+23,2026-06-05,Warangal,45.5,Heavy Rain,Heavy rainfall recorded
+24,2026-06-07,Karimnagar,8.0,Light Rain,Very little rainfall
+25,2026-06-09,Nizamabad,32.0,Moderate Rain,Moderate rainfall recorded
+26,2026-06-11,Khammam,55.0,Heavy Rain,Heavy rainfall recorded
+27,2026-06-13,Hyderabad,18.5,Light Rain,Light rainfall recorded
+28,2026-06-15,Medchal,65.0,Heavy Rain,Heavy rainfall recorded
+29,2026-06-17,Warangal,40.0,Moderate Rain,Moderate rainfall recorded
+30,2026-06-19,Karimnagar,5.5,Light Rain,Very little rainfall
+31,2026-07-01,Hyderabad,75.0,Heavy Rain,Heavy rainfall recorded
+32,2026-07-03,Medchal,90.5,Very Heavy Rain,Extremely heavy rainfall
+33,2026-07-05,Warangal,35.0,Moderate Rain,Moderate rainfall recorded
+34,2026-07-07,Karimnagar,22.0,Moderate Rain,Moderate rainfall recorded
+35,2026-07-09,Nizamabad,110.0,Very Heavy Rain,Extremely heavy rainfall
+36,2026-07-11,Khammam,48.5,Heavy Rain,Heavy rainfall recorded
+37,2026-07-13,Hyderabad,15.0,Light Rain,Light rainfall recorded
+38,2026-07-15,Medchal,82.0,Heavy Rain,Heavy rainfall recorded
+39,2026-07-17,Warangal,60.0,Heavy Rain,Heavy rainfall recorded
+40,2026-07-19,Karimnagar,28.5,Moderate Rain,Moderate rainfall recorded

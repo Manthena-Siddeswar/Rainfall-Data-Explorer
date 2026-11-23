@@ -1,0 +1,322 @@
+[
+  {
+    "record_id": "1",
+    "date": "2026-06-01",
+    "location": "Hyderabad",
+    "rainfall_mm": "12.5",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "2",
+    "date": "2026-06-02",
+    "location": "Medchal",
+    "rainfall_mm": "25.0",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "3",
+    "date": "2026-06-03",
+    "location": "Warangal",
+    "rainfall_mm": "45.5",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "4",
+    "date": "2026-06-04",
+    "location": "Karimnagar",
+    "rainfall_mm": "8.0",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "5",
+    "date": "2026-06-05",
+    "location": "Nizamabad",
+    "rainfall_mm": "32.0",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "6",
+    "date": "2026-06-06",
+    "location": "Khammam",
+    "rainfall_mm": "55.0",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "7",
+    "date": "2026-06-07",
+    "location": "Hyderabad",
+    "rainfall_mm": "18.5",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "8",
+    "date": "2026-06-08",
+    "location": "Medchal",
+    "rainfall_mm": "65.0",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "9",
+    "date": "2026-06-09",
+    "location": "Warangal",
+    "rainfall_mm": "40.0",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "10",
+    "date": "2026-06-10",
+    "location": "Karimnagar",
+    "rainfall_mm": "5.5",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "11",
+    "date": "2026-06-11",
+    "location": "Nizamabad",
+    "rainfall_mm": "75.0",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "12",
+    "date": "2026-06-12",
+    "location": "Khammam",
+    "rainfall_mm": "90.5",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "13",
+    "date": "2026-06-13",
+    "location": "Hyderabad",
+    "rainfall_mm": "35.0",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "14",
+    "date": "2026-06-14",
+    "location": "Medchal",
+    "rainfall_mm": "22.0",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "15",
+    "date": "2026-06-15",
+    "location": "Warangal",
+    "rainfall_mm": "110.0",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "16",
+    "date": "2026-06-16",
+    "location": "Karimnagar",
+    "rainfall_mm": "48.5",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "17",
+    "date": "2026-06-17",
+    "location": "Nizamabad",
+    "rainfall_mm": "15.0",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "18",
+    "date": "2026-06-18",
+    "location": "Khammam",
+    "rainfall_mm": "82.0",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "19",
+    "date": "2026-06-19",
+    "location": "Hyderabad",
+    "rainfall_mm": "60.0",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "20",
+    "date": "2026-06-20",
+    "location": "Medchal",
+    "rainfall_mm": "28.5",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "21",
+    "date": "2026-07-01",
+    "location": "Warangal",
+    "rainfall_mm": "12.5",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "22",
+    "date": "2026-07-02",
+    "location": "Karimnagar",
+    "rainfall_mm": "25.0",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "23",
+    "date": "2026-07-03",
+    "location": "Nizamabad",
+    "rainfall_mm": "45.5",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "24",
+    "date": "2026-07-04",
+    "location": "Khammam",
+    "rainfall_mm": "8.0",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "25",
+    "date": "2026-07-05",
+    "location": "Hyderabad",
+    "rainfall_mm": "32.0",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "26",
+    "date": "2026-07-06",
+    "location": "Medchal",
+    "rainfall_mm": "55.0",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "27",
+    "date": "2026-07-07",
+    "location": "Warangal",
+    "rainfall_mm": "18.5",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "28",
+    "date": "2026-07-08",
+    "location": "Karimnagar",
+    "rainfall_mm": "65.0",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "29",
+    "date": "2026-07-09",
+    "location": "Nizamabad",
+    "rainfall_mm": "40.0",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "30",
+    "date": "2026-07-10",
+    "location": "Khammam",
+    "rainfall_mm": "5.5",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "31",
+    "date": "2026-07-11",
+    "location": "Hyderabad",
+    "rainfall_mm": "75.0",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "32",
+    "date": "2026-07-12",
+    "location": "Medchal",
+    "rainfall_mm": "90.5",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "33",
+    "date": "2026-07-13",
+    "location": "Warangal",
+    "rainfall_mm": "35.0",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "34",
+    "date": "2026-07-14",
+    "location": "Karimnagar",
+    "rainfall_mm": "22.0",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "35",
+    "date": "2026-07-15",
+    "location": "Nizamabad",
+    "rainfall_mm": "110.0",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "36",
+    "date": "2026-07-16",
+    "location": "Khammam",
+    "rainfall_mm": "48.5",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "37",
+    "date": "2026-07-17",
+    "location": "Hyderabad",
+    "rainfall_mm": "15.0",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "38",
+    "date": "2026-07-18",
+    "location": "Medchal",
+    "rainfall_mm": "82.0",
+    "weather_condition": "Moderate Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "39",
+    "date": "2026-07-19",
+    "location": "Warangal",
+    "rainfall_mm": "60.0",
+    "weather_condition": "Heavy Rain",
+    "remarks": "Sample illustrative rainfall record"
+  },
+  {
+    "record_id": "40",
+    "date": "2026-07-20",
+    "location": "Karimnagar",
+    "rainfall_mm": "28.5",
+    "weather_condition": "Light Rain",
+    "remarks": "Sample illustrative rainfall record"
+  }
+]
